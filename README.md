@@ -2,6 +2,11 @@
     <h1>Hi there, I'm  Karukador </h1>
 </div>
 
+### About me
+• My native language is Russian
+• I speak English at B1 level
+• I'm [ENFP](https://www.16personalities.com/ru/lichnost-enfp) by mbti
+• My motto: "Работает - не трогай"
 
 ### Languages and tools
 
