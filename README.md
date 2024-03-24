@@ -1,5 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Karukador </h1>
+    <img src="https://mynickname.com/forum6t4/karukador.gif"/>&nbsp; 
 </div>
 
 ### About me
