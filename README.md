@@ -6,7 +6,7 @@
 ### About me
 • My native language is Russian  
 • I speak English at B1 level  
-• I'm [ENFP](https://www.16personalities.com/ru/lichnost-enfp) by mbti  
+• I'm ENFP by mbti  
 • My motto: "Работает - не трогай"
 
 ### Languages and tools
