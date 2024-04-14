@@ -3,12 +3,6 @@
     <img src="https://mynickname.com/forum6t4/karukador.gif"/>&nbsp; 
 </div>
 
-### About me
-• My native language is Russian  
-• I speak English at B1 level  
-• I'm ENFP by mbti  
-• My motto: "Работает - не трогай"
-
 ### Languages and tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="50" height="50"/>&nbsp;
