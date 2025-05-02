@@ -1,10 +1,10 @@
 <div id="header" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80c392&random=false&width=360&lines=Hi%2C+I'm+karukador"><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80c392&random=false&width=360&lines=Hi%2C+I'm+karukador%F0%9F%91%8B"><br>
 </div>
 
 ### Hobbies
 - 🚩 **CTF**
-- 🏐 **Volleybal**
+- 🏐 **Volleyball**
 - 💻 **Programming**
 - 📖 **Reading**
 
